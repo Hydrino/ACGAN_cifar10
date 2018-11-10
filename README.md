@@ -9,6 +9,8 @@ A PyTorch implementation of Auxiliary Classifier GAN to generate CIFAR10 images.
 
 ## Results
 
+After training for 50 epochs with batch size 100, following are the results of some of the classes.
+
 - horses
 ![images/horses_gen.png](images/horses_gen.png)
 
