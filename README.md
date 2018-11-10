@@ -13,7 +13,7 @@ A PyTorch implementation of Auxiliary Classifier GAN to generate CIFAR10 images.
 ![images/horses_gen.png](images/horses_gen.png)
 
 - cars
-![images/cars_gen.png](images/cars_gen.png)
+![images/gen_cars.png](images/gen_cars.png)
 
 - Frogs
 ![images/frogs_gen.png](images/frogs_gen.png)
